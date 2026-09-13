@@ -1,0 +1,4 @@
+# No Python packages are required.
+# The script uses only Python's standard library and the system commands:
+# - tesseract (install with: brew install tesseract)
+# - sips (bundled with macOS)

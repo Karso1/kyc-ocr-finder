@@ -1,0 +1,8 @@
+#!/bin/zsh
+# Copy this file to run_kyc_search.command, edit the values, then run it.
+
+python3 find_kyc.py \
+  --root "$HOME/Desktop/upay/kyc" \
+  --id "950926-10-5877" \
+  --name "HASIM HAIRUL AIMAN ASYRAF BIN" \
+  --workers 4
